@@ -1,6 +1,5 @@
-# 251CTT027_CaoNhatNguyen_ThiTKWebsite
+ 251CTT027_CaoNhatNguyen_ThiTKWebsite
 Bài Thi Thiết kế web Mã sinh viên: 22123456 Họ tên sinh viên: Nguyễn Văn A  
-
 Mô tả chức năng đã thực hiện:
 ​Thiết kế giao diện website Bảng điều khiển học tập cá nhân dành cho sinh viên bằng HTML5 và CSS3.
 ​Sử dụng cấu trúc thư mục chuẩn theo đúng yêu cầu phân tách các file index.html, css, js, images và docs.
